@@ -1,4 +1,4 @@
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide=javascript,html)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8)
 <h1 align="center">Hi 👋, I'm anonimus</h1>
 <h3 align="center">A passionate frontend developer from Spain</h3>
 
