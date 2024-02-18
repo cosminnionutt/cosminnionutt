@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm anonimus</h1>
 <h3 align="center">A passionate frontend developer from Spain</h3>
 
-- 💬 Ask me about **html, css, javascript, shell, pytone**
+- 💬 Ask me about **html, css, javascript, shell, pytone, c, c++, assembly, perl, makefile**
 
 - 📫 How to reach me **anonimus0921@gmail.com**
 
