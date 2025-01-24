@@ -4,7 +4,7 @@
 
 - 💬 Ask me about **html, css, javascript, shell, pytone, c, c++, assembly, perl, makefile**
 
-- 📫 How to reach me **anonimus0921@gmail.com**
+- 📫 How to reach me **cosmingirba1@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
